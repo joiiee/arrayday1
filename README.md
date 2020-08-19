@@ -1,4 +1,4 @@
-# Array Cardio (Methods) Day 1 #4
+# #4 Array Cardio (Methods) Day 1 
 
 30 Day Vanilla JS Challenge
 
